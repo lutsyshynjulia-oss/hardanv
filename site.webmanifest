@@ -1,0 +1,11 @@
+{
+  "name": "Hardan & Vale",
+  "short_name": "Hardan & Vale",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#6D3AF5",
+  "background_color": "#FFFFFF",
+  "display": "browser"
+}
